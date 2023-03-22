@@ -17,5 +17,5 @@ jobs:
           uses: Azure/pipelines@v1
           with:
             azure-devops-project-url: https://dev.azure.com/sharathya0978/techsup400
-            azure-pipeline-name: 'devops6004.gitapp'
+            azure-pipeline-name: 'webapptest'
             azure-devops-token: ${{ secrets.AZURE_DEVOPS_TOKEN }}
